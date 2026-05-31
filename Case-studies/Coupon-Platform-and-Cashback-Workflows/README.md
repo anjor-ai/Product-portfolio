@@ -8,7 +8,7 @@
 
 **Timeline:** 2024
 
-[← Back to Portfolio](../README.md)
+[← Back to Portfolio](../Case-studies/README.md)
 
 ---
 
