@@ -1,8 +1,11 @@
 # 03 · Algorithmic SKU Substitution Engine
 
 **Category:** Logistics Automation · Platform Infrastructure
+
 **Company:** Truemeds — Series C, India's leading online pharmacy
+
 **Role:** Associate Product Manager
+
 **Timeline:** 2024
 
 [← Back to Portfolio](../README.md)
