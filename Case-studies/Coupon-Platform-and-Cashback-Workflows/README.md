@@ -8,8 +8,6 @@
 
 **Timeline:** 2024
 
-[← Back to Portfolio](Case-studies/README.md)
-
 ---
 
 ## Outcomes
@@ -128,8 +126,6 @@ If I were to build this system again, I would change two things:
 By dedicating our full engineering bandwidth to this massive build, we created a temporary backlog of requests from other teams, which caused subsequent micro-optimizations for this platform to get deprioritized later down the line.
 
 ---
-
-[← Back to Portfolio](../README.md)
 
 ---
 
