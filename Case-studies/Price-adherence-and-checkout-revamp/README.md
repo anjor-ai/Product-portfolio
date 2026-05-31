@@ -1,8 +1,11 @@
 # 01 · Price Lock and the Checkout Rebuild
 
 **Category:** Payments · 0-to-1  
+
 **Company:** Truemeds — Series C, India's leading online pharmacy  
+
 **Role:** Associate Product Manager  
+
 **Timeline:** 2024
 
 [← Back to Portfolio](../case-studies)
