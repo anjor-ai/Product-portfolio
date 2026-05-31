@@ -8,8 +8,6 @@
 
 **Timeline:** 2024
 
-[← Back to Portfolio](../case-studies)
-
 ---
 
 ## Outcomes
@@ -125,8 +123,6 @@ A better approach would have been to first audit:
 Doing that audit first would have made the build more targeted and potentially faster — and would have set up the payments engineering revamp more cleanly.
 
 ---
-
-[← Back to Portfolio](../README.md)
 
 ---
 
