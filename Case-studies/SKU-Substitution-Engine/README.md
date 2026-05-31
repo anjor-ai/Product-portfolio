@@ -8,8 +8,6 @@
 
 **Timeline:** 2024
 
-[← Back to Portfolio](../README.md)
-
 ---
 
 ## Outcomes
@@ -115,8 +113,6 @@ Instead of locking the operational teams out of the solution for two full months
 I regret not running a parallel A/B test that exposed pack-size alternatives directly to users on the order summary page. If architected with the right incentives, we could have offered customers the option to swap their selection for a larger pack size at a minor discount right before checkout. This could have avoided fulfillment delays entirely while actively driving up Average Order Value (AOV).
 
 ---
-
-[← Back to Portfolio](../README.md)
 
 ---
 
