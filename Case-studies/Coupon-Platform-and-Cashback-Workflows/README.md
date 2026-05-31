@@ -1,4 +1,4 @@
-# 02 · The Core Coupon Platform and Native Cashback Rebuild
+# 02 · The Core Coupon Platform and Cashback Workflows
 
 **Category:** Retention & Growth · 0-to-1
 
